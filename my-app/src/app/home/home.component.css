@@ -1,0 +1,26 @@
+:host {
+  display: block;
+  height: 100%;
+}
+
+.outside-container {
+  height: 100%;
+}
+
+.sidenav-container{
+  padding: 20px;
+  background: #d2edecc3;
+  height: 100%;
+  min-width: 200px;
+}
+
+.sidenav-container a {
+  text-decoration: none;
+  display: block;
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 8px;
+  color: black;
+}
+
